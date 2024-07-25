@@ -1,3 +1,3 @@
 # c-bird
 
-hi
+quick cpp bencher
